@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "adam shaikh",
+      "username": "ddd",
+      "email": "8999598955",
+      "phone": "ddd",
+      "id": 2
+    },
+    {
+      "name": "adam shaikh",
+      "username": "ddd",
+      "email": "8999598955",
+      "phone": "ddd",
+      "id": 3
+    },
+    {
+      "name": "",
+      "username": "",
+      "email": "8999598955",
+      "phone": "ddd",
+      "id": 4
+    }
+  ]
+}
